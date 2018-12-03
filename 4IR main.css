@@ -1,0 +1,31 @@
+body{
+  background-image: url('3.PNG');
+  background-repeat: no-repeat;
+  background-size: cover;
+font-family: 'Black Han Sans', sans-serif;
+  color: #D0D3D4;
+  border-bottom: : 100px;
+  text-align: center;
+  border: 60px solid #154360;
+  border-top: 0px;
+  border-bottom: 0px;
+  margin: 0px;
+}
+  .auto-style1 {
+    font-size: 3rem;
+  border-collapse: inherit;
+  	border: 25px solid #FDFEFE  ;
+  	background-color: #7DCEA0 ;
+  }
+  .block{
+    background-color: Black;
+  }
+}
+h1{
+    font-size: 3.5em;
+    margin: 0px;
+}
+img {
+  margin: auto;
+max-width: 150%;
+}

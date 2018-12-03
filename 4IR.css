@@ -1,0 +1,29 @@
+body{
+
+font-family: 'Black Han Sans', sans-serif;
+  background-color: #17202A;
+  color: #D0D3D4;
+  border-bottom: : 100px;
+  text-align: center;
+  border:60px solid #154360;
+  border-top: 0px;
+  margin: 0px;
+  font-family: 'Black Han Sans', sans-serif;
+  font-family: 'Changa', sans-serif;
+}
+
+h2{
+color: #7D6608;
+}
+h3{
+color: #2ECC71;
+}
+p{
+  padding-left: 50%;
+  font-family: 'Black Han Sans', sans-serif;
+  font-family: 'Changa', sans-serif;
+
+}
+img{
+  image-size: .5px;
+}
